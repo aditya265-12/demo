@@ -10,5 +10,7 @@ def multiply(x,y):
 #divide fn
 def divide(x,y):
     pass
-
+#square
+def square(x):
+    pass
 #Code ends here
